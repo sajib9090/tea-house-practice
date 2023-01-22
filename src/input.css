@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* .th-btn-primary{
+    @apply font-bold font-manrope text-lg text-white bg-gradient-to-r from-[#FF0000] to-[#FF8938] px-5 py-3 rounded-lg;
+}
+
+.th-dark1{
+    @apply text-[#1C1C1C];
+}
+.th-dark2{
+    @apply text-[#494949];
+}
+.th-dark3{
+    @apply text-[#777777];
+}
+.th-linear{
+    @apply text-gradient-to-r from-[#FF0000] to-[#FF8938];
+} */
